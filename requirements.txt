@@ -1,0 +1,11 @@
+# SolarPunk Remedies — dependencies
+# The core agent uses only the Python standard library (json, os, datetime).
+# These are optional utilities for future expansion.
+
+# Markdown rendering (future: PDF guide export)
+# markdown>=3.5
+
+# For future Gumroad API integration
+# requests>=2.31
+
+# Nothing required for the base agent — stdlib only.
